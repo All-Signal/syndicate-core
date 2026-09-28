@@ -1,0 +1,7 @@
+.env
+*.log
+*.pid
+venv/
+__pycache__/
+*.pyc
+.system_generated/
